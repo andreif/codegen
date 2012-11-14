@@ -8,6 +8,7 @@ setup(
     #author='Armin Ronacher',
     #author_email='armin.ronacher@active-4.com',
     url='http://github.com/andreif/codegen',
+    download_url='https://github.com/andreif/codegen/tarball/1.0',
     keywords='ast codegen',
     platforms='any',
     zip_safe=False,
@@ -15,7 +16,6 @@ setup(
     install_requires = [],
     py_modules=['codegen'],
     classifiers=[
-        'Environment :: Web Environment',
         'Intended Audience :: Developers',
         'Operating System :: OS Independent',
         'License :: OSI Approved :: BSD License',
