@@ -2,6 +2,8 @@
 
 Extension to ast that allow ast -> python code generation.
 
+**Please see [astor](https://github.com/berkerpeksag/astor) for a recent fork!**
+
 ## License
 
 Copyright (c) 2008, Armin Ronacher
